@@ -57,7 +57,7 @@ I mostly work for a large US [`financial services`](https://en.wikipedia.org/wik
     </td>
     <td valign="middle">
       <strong>The Cyber Hound</strong> · private repository<br>
-      Research into where tech jobs are going: <a href="https://en.wikipedia.org/wiki/H-1B_visa"><code>H-1B</code></a> labor-condition applications and WARN notices in the Hartford–Springfield corridor, turned into a public-records investigation.
+      Research into where tech jobs are going: H-1B labor-condition applications and WARN notices in the Hartford–Springfield corridor, turned into a public-records investigation.
     </td>
   </tr>
   <tr>
@@ -66,7 +66,7 @@ I mostly work for a large US [`financial services`](https://en.wikipedia.org/wik
     </td>
     <td valign="middle">
       <strong>golden-shackles</strong> · private repository<br>
-      An on-chain forensics lab for contract, oracle, and settlement trails — local-first case notes, not a public explorer.
+      An on-chain forensics lab for contract, oracle, and settlement trails
     </td>
   </tr>
 </table>
