@@ -28,6 +28,15 @@ I mostly work for a large US [`financial services`](https://en.wikipedia.org/wik
       An open <a href="https://en.wikipedia.org/wiki/Open-source_intelligence"><code>OSINT</code></a> research instrument that turns litigated insider cases into corpus-level evidence: who commits these incidents, how they happen, and which records actually detect and convict them. Live at <a href="https://insider-intel.net">insider-intel.net</a>.
     </td>
   </tr>
+  <tr>
+    <td width="272" valign="middle">
+      <a href="./assets/projects/full/thederpweb.jpg"><img src="./assets/projects/thumbs/thederpweb.jpg" alt="thederpweb labs hub" width="256"></a>
+    </td>
+    <td valign="middle">
+      <strong><a href="https://thederpweb.com">thederpweb</a></strong><br>
+      A labs hub for insider-risk and <a href="https://en.wikipedia.org/wiki/Digital_forensics_and_incident_response"><code>DFIR</code></a> tools — currently insider-intel and the resume, with more parked behind it. Live at <a href="https://thederpweb.com">thederpweb.com</a>.
+    </td>
+  </tr>
 </table>
 
 ### In development
@@ -40,6 +49,24 @@ I mostly work for a large US [`financial services`](https://en.wikipedia.org/wik
     <td valign="middle">
       <strong>stingquisition</strong> · private repository<br>
       A portable forensic acquisition toolkit for insider-threat and <a href="https://en.wikipedia.org/wiki/Digital_forensics_and_incident_response"><code>DFIR</code></a> workflows: case folders, segmented raw imaging, SHA-256 verification, resumable transfer, and JSON/HTML reporting.
+    </td>
+  </tr>
+  <tr>
+    <td width="272" valign="middle">
+      <a href="./assets/projects/full/tech-bleed.jpg"><img src="./assets/projects/thumbs/tech-bleed.jpg" alt="The Cyber Hound tech jobs research" width="256"></a>
+    </td>
+    <td valign="middle">
+      <strong>The Cyber Hound</strong> · private repository<br>
+      Research into where tech jobs are going: <a href="https://en.wikipedia.org/wiki/H-1B_visa"><code>H-1B</code></a> labor-condition applications and WARN notices in the Hartford–Springfield corridor, turned into a public-records investigation.
+    </td>
+  </tr>
+  <tr>
+    <td width="272" valign="middle">
+      <a href="./assets/projects/full/golden-shackles.jpg"><img src="./assets/projects/thumbs/golden-shackles.jpg" alt="golden-shackles on-chain forensics lab" width="256"></a>
+    </td>
+    <td valign="middle">
+      <strong>golden-shackles</strong> · private repository<br>
+      An on-chain forensics lab for contract, oracle, and settlement trails — local-first case notes, not a public explorer.
     </td>
   </tr>
 </table>
