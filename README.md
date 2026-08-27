@@ -29,3 +29,17 @@ I mostly work for a large US [`financial services`](https://en.wikipedia.org/wik
     </td>
   </tr>
 </table>
+
+### In development
+
+<table>
+  <tr>
+    <td width="272" valign="middle">
+      <a href="./assets/projects/full/stingquisition.jpg"><img src="./assets/projects/thumbs/stingquisition.jpg" alt="stingquisition forensic acquisition report" width="256"></a>
+    </td>
+    <td valign="middle">
+      <strong>stingquisition</strong> · private repository<br>
+      A portable forensic acquisition toolkit for insider-threat and <a href="https://en.wikipedia.org/wiki/Digital_forensics_and_incident_response"><code>DFIR</code></a> workflows: case folders, segmented raw imaging, SHA-256 verification, resumable transfer, and JSON/HTML reporting.
+    </td>
+  </tr>
+</table>
