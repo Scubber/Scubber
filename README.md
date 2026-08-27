@@ -10,7 +10,7 @@
 
 wowe much cyber
 
-I've spanned many job roles, most recently in Insider risk, [`DFIR`](https://en.wikipedia.org/wiki/Digital_forensics_and_incident_response), Cloud Security Engineering, Cloud Security Operations, and Digital Forensics and Incident Response. I build tools that interest me and maybe cover a niche area of underserved cybersecurity areas.
+I've spanned many job roles, most recently in Insider risk, Cloud Security Engineering, Cloud Security Operations, and Digital Forensics and Incident Response. I build tools that interest me and maybe cover a niche area of underserved cybersecurity areas.
 
 I mostly work for a large US [`financial services`](https://en.wikipedia.org/wiki/Financial_services) firms, building insider-threat and incident-response capability across cloud and enterprise environments.
 
