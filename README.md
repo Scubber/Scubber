@@ -23,11 +23,13 @@
 ⠀⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣇
 ```
 
-I'm a security engineer focused on insider risk, digital forensics, and turning messy incident evidence into programs that actually detect and respond. [`Python`](https://www.python.org/) and [`AWS`](https://aws.amazon.com/) anchor my tooling, while I work in [`DFIR`](https://en.wikipedia.org/wiki/Digital_forensics_and_incident_response), [`OSINT`](https://en.wikipedia.org/wiki/Open-source_intelligence), and [`AI`](https://en.wikipedia.org/wiki/Artificial_intelligence) to map how insider incidents really happen.
+wowe much cyber
+
+Insider risk, [`DFIR`](https://en.wikipedia.org/wiki/Digital_forensics_and_incident_response), [`OSINT`](https://en.wikipedia.org/wiki/Open-source_intelligence). [`Python`](https://www.python.org/) + [`AWS`](https://aws.amazon.com/) / [`GCP`](https://cloud.google.com/).
 
 I work in [`Massachusetts`](https://en.wikipedia.org/wiki/Massachusetts) for a large US [`financial services`](https://en.wikipedia.org/wiki/Financial_services) firm, building insider-threat and incident-response capability across cloud and enterprise environments.
 
-Security research, systems, and open investigative tooling are my passions. That curiosity currently lives in court-backed insider-threat research, detection engineering, and local-first investigative products.
+[`AI`](https://en.wikipedia.org/wiki/Artificial_intelligence): [`DGX Spark`](https://www.nvidia.com/en-us/products/workstations/dgx-spark/), [`Claude`](https://www.anthropic.com/claude), [`Codex`](https://openai.com/codex/), [`Cursor`](https://cursor.com).
 
 ## Projects
 
