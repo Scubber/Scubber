@@ -1,11 +1,11 @@
 ```
-  :::::::::::        :::::::::::          :::   :::
-     :+:                :+:             :+:+: :+:+:
-    +:+                +:+            +:+ +:+:+ +:+
-   +#+                +#+            +#+  +:+  +#+
-  +#+                +#+            +#+       +#+
- #+#                #+#            #+#       #+#
-###            ###########        ###       ###
+      :::::::::        ::::::::        ::::::::        ::::::::::
+     :+:    :+:      :+:    :+:      :+:    :+:       :+:
+    +:+    +:+      +:+    +:+      +:+              +:+
+   +#+    +:+      +#+    +:+      :#:              +#++:++#
+  +#+    +#+      +#+    +#+      +#+   +#+#       +#+
+ #+#    #+#      #+#    #+#      #+#    #+#       #+#
+#########        ########        ########        ##########
 ```
 
 I'm a security engineer focused on insider risk, digital forensics, and turning messy incident evidence into programs that actually detect and respond. [`Python`](https://www.python.org/) and [`AWS`](https://aws.amazon.com/) anchor my tooling, while I work in [`DFIR`](https://en.wikipedia.org/wiki/Digital_forensics_and_incident_response), [`OSINT`](https://en.wikipedia.org/wiki/Open-source_intelligence), and [`AI`](https://en.wikipedia.org/wiki/Artificial_intelligence) to map how insider incidents really happen.
