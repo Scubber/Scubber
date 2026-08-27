@@ -10,11 +10,9 @@
 
 wowe much cyber
 
-Insider risk, [`DFIR`](https://en.wikipedia.org/wiki/Digital_forensics_and_incident_response), [`OSINT`](https://en.wikipedia.org/wiki/Open-source_intelligence). [`Python`](https://www.python.org/) + [`AWS`](https://aws.amazon.com/) / [`GCP`](https://cloud.google.com/).
+I've spanned many job roles, most recently in Insider risk, [`DFIR`](https://en.wikipedia.org/wiki/Digital_forensics_and_incident_response), Cloud Security Engineering, Cloud Security Operations, and Digital Forensics and Incident Response. I build tools that interest me and maybe cover a niche area of underserved cybersecurity areas.
 
-I work in [`Massachusetts`](https://en.wikipedia.org/wiki/Massachusetts) for a large US [`financial services`](https://en.wikipedia.org/wiki/Financial_services) firm, building insider-threat and incident-response capability across cloud and enterprise environments.
-
-[`AI`](https://en.wikipedia.org/wiki/Artificial_intelligence): [`DGX Spark`](https://www.nvidia.com/en-us/products/workstations/dgx-spark/), [`Claude`](https://www.anthropic.com/claude), [`Codex`](https://openai.com/codex/), [`Cursor`](https://cursor.com).
+I mostly work for a large US [`financial services`](https://en.wikipedia.org/wiki/Financial_services) firms, building insider-threat and incident-response capability across cloud and enterprise environments.
 
 ## Projects
 
